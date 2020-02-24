@@ -7,4 +7,4 @@ To read from the buffer, I have created a vector of ints that is the size of the
 **Part 2**
 
 Here is the graph of the results of the program:
-![Chart](HW1 Chart.png)
+![Chart](https://github.com/squinkums/Computer_Systems_HW1/blob/master/HW1%20Chart.png)
